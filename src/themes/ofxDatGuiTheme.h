@@ -174,14 +174,14 @@ class ofxDatGuiTheme{
         
         // general rules that are shared by all components //
             float width = 270.0f;
-            float height = 20.0f;
+            float height = 16.0f;
             float padding = 2.0f;
             float vMargin = 1.0f; // vertical spacing between gui components //
             float iconSize = 10.0f;
             float labelWidth = 95.0f;
             float labelMargin = 12.0f;
             float breakHeight = 3.0f;
-            bool upperCaseLabels = true;
+            bool upperCaseLabels = false;
             
         // component specific rules & settings //
         
