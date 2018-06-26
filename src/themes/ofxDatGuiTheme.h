@@ -222,7 +222,7 @@ class ofxDatGuiTheme{
     
         struct {
             int size = 10;
-            string file = AssetPath + "ofxbraitsch/fonts/DINNextLTPro-MediumCond.otf";
+            string file = AssetPath + "ofxbraitsch/fonts/Verdana.ttf";
             shared_ptr<ofxSmartFont> ptr;
         } font;
     
